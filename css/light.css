@@ -124,7 +124,6 @@ img.icon {
 #buttons {
   text-align: right;
   background-color: #777777;
-  color: #FFFFFF;
 }
 
 .left {
@@ -194,6 +193,7 @@ input {
   border: none;
   background-color: #777777;
   padding: 0.25em 0.5em;
+  color: #FFFFFF;
 }
 
 button#send {
